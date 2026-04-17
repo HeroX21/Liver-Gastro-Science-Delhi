@@ -79,4 +79,4 @@ Hospital: 24/7
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/liver-gastro-website.git
+[https://herox21.github.io/Liver-Gastro-Science-Delhi/index.html]
